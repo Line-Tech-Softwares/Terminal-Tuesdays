@@ -51,4 +51,5 @@ Whether you’re a beginner or just looking to sharpen your command-line skills,
 
 1. Clone the repo:  
 ```bash
-git clone https://github.com/yourusername/Terminal-Tuesdays.git
+git clone https://github.com/Line-Tech-Softwares/Terminal-Tuesdays.git
+
